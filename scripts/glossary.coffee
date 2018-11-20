@@ -11,7 +11,7 @@ module.exports = (robot) ->
     items = [];
     err_msg = "Oops I couldn't find anything :-("
     items.push
-        title:"What-Should-I-Use":"peer to peer applications on a secure meshnet that does not need management from a central authority, but this sort of experimental network also comes with the burden of immature software, so if someone wants to deploy a city meshnet now it's probably better to look at batman/babel and established communities like freifunk/guifi, but starting small and experimenting on raspberry pi is just what we do"
+        title:"what-should-i-use",content:"peer to peer applications on a secure meshnet that does not need management from a central authority, but this sort of experimental network also comes with the burden of immature software, so if someone wants to deploy a city meshnet now it's probably better to look at batman/babel and established communities like freifunk/guifi, but starting small and experimenting on raspberry pi is just what we do"
     items.push 
         title:"Node",content:"A connection point on a network. A network is formed when two nodes are able to communicate with one another."
     items.push 
